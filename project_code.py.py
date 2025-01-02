@@ -1,4 +1,4 @@
-#import pandas as pd
+import pandas as pd
 employee_data = {
     101: {'name': 'Satya', 'age': 27, 'department': 'HR', 'salary': 50000},
     102: {'name': 'Amit', 'age': 34, 'department': 'Engineering', 'salary': 75000},
