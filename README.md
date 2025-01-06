@@ -17,4 +17,4 @@ A Python-based Employee Management System that allows you to add, view, and sear
 ## Requirements
 - Python 3.x
 
-This **README.md** contains the essential information and instructions for the Employee Management System project, and it stays within your character limit constraints for the description.
+This **README.md** contains the essential information and instructions for the Employee Management System project.
